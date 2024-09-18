@@ -16,9 +16,13 @@ interface SkillCardProps {
 // Datos de habilidades con tipo Skill
 const skills: Skill[] = [
   { name: 'JavaScript', icon: '🟨', level: 90 },
-  { name: 'React', icon: '🔵', level: 85 },
-  { name: 'Node.js', icon: '🟢', level: 80 },
-  { name: 'CSS', icon: '🔵', level: 75 }
+  { name: 'React', icon: '🔵', level: 60 },
+  { name: 'Node.js', icon: '🟢', level: 50 },
+  { name: 'CSS', icon: '🔵', level: 70 },
+  { name: 'Java', icon: '🟨', level: 75 },
+  { name: 'MySQL', icon: '🔵', level: 65 },
+  { name: 'Sony Vegas Pro', icon: '🟢', level: 80 },
+  { name: 'Adobe After Effects', icon: '🔵', level: 65 },
 ];
 
 // Animaciones
@@ -78,7 +82,7 @@ const SkillsSection: React.FC = () => (
       variants={typewriterVariants}
       transition={{ duration: 1 }}
     >
-      <h2 className="text-3xl font-bold mb-4">Mis Habilidades</h2>
+      <h2 className="text-3xl font-bold mb-4"></h2>
       <p className="text-lg">
         <motion.span
           className="inline-block"
