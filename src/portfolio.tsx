@@ -194,8 +194,28 @@ export default function Portfolio() {
               <ExperienceCard
                 title="Administrador de Base de Datos"
                 company="Taller Lara"
-                period="2020 - Actualidad"
+                period="2022 - Actualidad"
                 description="Responsable de la gestión y mantenimiento de las bases de datos del taller, optimización de procesos de gestión de inventarios y pedidos, implementación de medidas de seguridad y soporte técnico."
+              />
+              <ExperienceCard
+                title="Store Manager |Encargado|"
+                company="Burger King"
+                period="2019 - Actualidad"
+                description="Como Encargado de Tienda en Burger King, superviso las operaciones diarias del restaurante y garantizo un alto estándar de servicio al cliente. Mi rol incluye gestionar todos los aspectos operativos de la tienda, como la administración de inventarios, la programación del personal y el cumplimiento de las políticas de la empresa para asegurar un funcionamiento fluido.
+
+Me enfoco en ofrecer un servicio excepcional al cliente, formando y supervisando al personal, resolviendo consultas y manteniendo un entorno limpio y acogedor. Además, dirijo y motivo a mi equipo para alcanzar objetivos de rendimiento, manteniendo altos estándares de trabajo y una cultura laboral positiva.
+
+Monitoreo el rendimiento de las ventas e implemento estrategias para aumentar la rentabilidad y mejorar el rendimiento general de la tienda. Proporciono oportunidades de formación y desarrollo para el personal, asegurando el cumplimiento de los estándares operativos y apoyando su crecimiento profesional. También garantizo el cumplimiento de las normativas de salud y seguridad para mantener un entorno seguro para clientes y empleados. Utilizo mis habilidades de liderazgo, organización y resolución de problemas para optimizar las operaciones de la tienda y fomentar el éxito empresarial."
+              />
+              <ExperienceCard
+                title="Maestro de Educación Primaria"
+                company="Colegio SAFA"
+                period="2018 - 2019"
+                description="Durante mis prácticas como maestro de educación primaria, he desarrollado habilidades clave para una enseñanza efectiva y el desarrollo integral de los estudiantes. Estas incluyen el diseño y planificación de clases, creando planes detallados que se alinean con el currículo y responden a las necesidades de los estudiantes, seleccionando materiales adecuados y planificando actividades didácticas.
+
+En la gestión del aula, establezco y mantengo un ambiente de aprendizaje positivo, implementando estrategias de manejo del comportamiento, promoviendo respeto y colaboración, y adaptando el entorno físico para maximizar el aprendizaje.
+
+Utilizo métodos de enseñanza diferenciados para atender a la diversidad de estilos de aprendizaje y niveles de habilidad, adaptando estrategias pedagógicas y recursos para satisfacer las necesidades individuales y grupales."
               />
             </motion.section>
           )}
